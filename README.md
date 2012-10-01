@@ -5,7 +5,7 @@
 <title>Визитка</title>
 </head>
 <body>
-<img src="C:/Users/Полина/Downloads/wLtbbbbDVls.jpg" width="170" height="200" alt="Нюша" vspace="10px" align="left">
+<img src="wLtbbbbDVls.jpg" width="170" height="200" alt="Нюша" vspace="10px" align="left">
 <font size="5" color="#000046"><b>Иванов Иван
 <br>[шк. №1234]</font></b>
 <hr>
